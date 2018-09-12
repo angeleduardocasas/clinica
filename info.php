@@ -1,1 +1,2 @@
-<? echo  php_info(); ?>
+<?php echo  php_info();
+echo "prueba de modificcion" ?>
